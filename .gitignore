@@ -1,0 +1,21 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
+
+# Local editor and operating-system files
+.vscode/
+.idea/
+
+# Protected or respondent-level research data must never be committed.
+private/
+protected/
+raw/
+**/*respondent*
+**/*internal*
+**/*exact*
+**/*raw-survey*
+**/*coordinate-qa-example*

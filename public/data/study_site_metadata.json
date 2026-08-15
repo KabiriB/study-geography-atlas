@@ -1,0 +1,146 @@
+[
+  {
+    "city": "Accra",
+    "country": "Ghana",
+    "n_public_mapped_interviews": 171,
+    "n_public_aggregate_points": 8,
+    "minimum_interviews_per_point": 7,
+    "center_lat": 5.5355,
+    "center_lon": -0.21336,
+    "bounds": [
+      5.53,
+      -0.22,
+      5.54,
+      -0.205
+    ],
+    "neighbourhood": "James Town"
+  },
+  {
+    "city": "Accra",
+    "country": "Ghana",
+    "n_public_mapped_interviews": 221,
+    "n_public_aggregate_points": 25,
+    "minimum_interviews_per_point": 5,
+    "center_lat": 5.67756,
+    "center_lon": -0.16581,
+    "bounds": [
+      5.65,
+      -0.195,
+      5.735,
+      -0.15
+    ],
+    "neighbourhood": "Madina"
+  },
+  {
+    "city": "Accra",
+    "country": "Ghana",
+    "n_public_mapped_interviews": 185,
+    "n_public_aggregate_points": 4,
+    "minimum_interviews_per_point": 38,
+    "center_lat": 5.54751,
+    "center_lon": -0.22286,
+    "bounds": [
+      5.545,
+      -0.225,
+      5.55,
+      -0.22
+    ],
+    "neighbourhood": "Old Fadama"
+  },
+  {
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "n_public_mapped_interviews": 183,
+    "n_public_aggregate_points": 5,
+    "minimum_interviews_per_point": 12,
+    "center_lat": -26.18361,
+    "center_lon": 28.05336,
+    "bounds": [
+      -26.19,
+      28.045,
+      -26.18,
+      28.055
+    ],
+    "neighbourhood": "Berea"
+  },
+  {
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "n_public_mapped_interviews": 164,
+    "n_public_aggregate_points": 4,
+    "minimum_interviews_per_point": 22,
+    "center_lat": -25.9228,
+    "center_lon": 28.01808,
+    "bounds": [
+      -25.925,
+      28.015,
+      -25.92,
+      28.02
+    ],
+    "neighbourhood": "Diepsloot"
+  },
+  {
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "n_public_mapped_interviews": 168,
+    "n_public_aggregate_points": 6,
+    "minimum_interviews_per_point": 9,
+    "center_lat": -26.36315,
+    "center_lon": 28.14943,
+    "bounds": [
+      -26.37,
+      28.135,
+      -26.36,
+      28.155
+    ],
+    "neighbourhood": "Katlehong"
+  },
+  {
+    "city": "Nairobi",
+    "country": "Kenya",
+    "n_public_mapped_interviews": 207,
+    "n_public_aggregate_points": 15,
+    "minimum_interviews_per_point": 7,
+    "center_lat": -1.27816,
+    "center_lon": 36.75085,
+    "bounds": [
+      -1.29,
+      36.735,
+      -1.21,
+      36.79
+    ],
+    "neighbourhood": "Kawangware"
+  },
+  {
+    "city": "Nairobi",
+    "country": "Kenya",
+    "n_public_mapped_interviews": 171,
+    "n_public_aggregate_points": 15,
+    "minimum_interviews_per_point": 5,
+    "center_lat": -1.2769,
+    "center_lon": 36.91456,
+    "bounds": [
+      -1.29,
+      36.905,
+      -1.26,
+      36.925
+    ],
+    "neighbourhood": "Kayole"
+  },
+  {
+    "city": "Nairobi",
+    "country": "Kenya",
+    "n_public_mapped_interviews": 168,
+    "n_public_aggregate_points": 22,
+    "minimum_interviews_per_point": 5,
+    "center_lat": -1.3961,
+    "center_lon": 36.75077,
+    "bounds": [
+      -1.405,
+      36.73,
+      -1.39,
+      36.765
+    ],
+    "neighbourhood": "Ongata Rongai"
+  }
+]

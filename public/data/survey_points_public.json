@@ -1,0 +1,834 @@
+[
+  {
+    "city": "Accra",
+    "neighbourhood": "James Town",
+    "country": "Ghana",
+    "lat": 5.53,
+    "lon": -0.22,
+    "count": 9
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "James Town",
+    "country": "Ghana",
+    "lat": 5.53,
+    "lon": -0.215,
+    "count": 11
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "James Town",
+    "country": "Ghana",
+    "lat": 5.535,
+    "lon": -0.22,
+    "count": 18
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "James Town",
+    "country": "Ghana",
+    "lat": 5.535,
+    "lon": -0.215,
+    "count": 50
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "James Town",
+    "country": "Ghana",
+    "lat": 5.535,
+    "lon": -0.21,
+    "count": 46
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "James Town",
+    "country": "Ghana",
+    "lat": 5.54,
+    "lon": -0.215,
+    "count": 7
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "James Town",
+    "country": "Ghana",
+    "lat": 5.54,
+    "lon": -0.21,
+    "count": 23
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "James Town",
+    "country": "Ghana",
+    "lat": 5.54,
+    "lon": -0.205,
+    "count": 7
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "Madina",
+    "country": "Ghana",
+    "lat": 5.65,
+    "lon": -0.195,
+    "count": 7
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "Madina",
+    "country": "Ghana",
+    "lat": 5.65,
+    "lon": -0.19,
+    "count": 7
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "Madina",
+    "country": "Ghana",
+    "lat": 5.66,
+    "lon": -0.165,
+    "count": 9
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "Madina",
+    "country": "Ghana",
+    "lat": 5.665,
+    "lon": -0.16,
+    "count": 14
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "Madina",
+    "country": "Ghana",
+    "lat": 5.665,
+    "lon": -0.155,
+    "count": 5
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "Madina",
+    "country": "Ghana",
+    "lat": 5.67,
+    "lon": -0.175,
+    "count": 8
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "Madina",
+    "country": "Ghana",
+    "lat": 5.67,
+    "lon": -0.17,
+    "count": 10
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "Madina",
+    "country": "Ghana",
+    "lat": 5.67,
+    "lon": -0.165,
+    "count": 7
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "Madina",
+    "country": "Ghana",
+    "lat": 5.67,
+    "lon": -0.16,
+    "count": 8
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "Madina",
+    "country": "Ghana",
+    "lat": 5.67,
+    "lon": -0.155,
+    "count": 14
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "Madina",
+    "country": "Ghana",
+    "lat": 5.675,
+    "lon": -0.17,
+    "count": 14
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "Madina",
+    "country": "Ghana",
+    "lat": 5.675,
+    "lon": -0.165,
+    "count": 11
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "Madina",
+    "country": "Ghana",
+    "lat": 5.675,
+    "lon": -0.16,
+    "count": 5
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "Madina",
+    "country": "Ghana",
+    "lat": 5.675,
+    "lon": -0.155,
+    "count": 9
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "Madina",
+    "country": "Ghana",
+    "lat": 5.68,
+    "lon": -0.17,
+    "count": 12
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "Madina",
+    "country": "Ghana",
+    "lat": 5.68,
+    "lon": -0.165,
+    "count": 6
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "Madina",
+    "country": "Ghana",
+    "lat": 5.68,
+    "lon": -0.16,
+    "count": 9
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "Madina",
+    "country": "Ghana",
+    "lat": 5.68,
+    "lon": -0.155,
+    "count": 7
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "Madina",
+    "country": "Ghana",
+    "lat": 5.685,
+    "lon": -0.17,
+    "count": 5
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "Madina",
+    "country": "Ghana",
+    "lat": 5.685,
+    "lon": -0.16,
+    "count": 14
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "Madina",
+    "country": "Ghana",
+    "lat": 5.685,
+    "lon": -0.155,
+    "count": 5
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "Madina",
+    "country": "Ghana",
+    "lat": 5.695,
+    "lon": -0.175,
+    "count": 12
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "Madina",
+    "country": "Ghana",
+    "lat": 5.7,
+    "lon": -0.175,
+    "count": 9
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "Madina",
+    "country": "Ghana",
+    "lat": 5.705,
+    "lon": -0.17,
+    "count": 8
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "Madina",
+    "country": "Ghana",
+    "lat": 5.735,
+    "lon": -0.15,
+    "count": 6
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "Old Fadama",
+    "country": "Ghana",
+    "lat": 5.545,
+    "lon": -0.225,
+    "count": 54
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "Old Fadama",
+    "country": "Ghana",
+    "lat": 5.545,
+    "lon": -0.22,
+    "count": 38
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "Old Fadama",
+    "country": "Ghana",
+    "lat": 5.55,
+    "lon": -0.225,
+    "count": 52
+  },
+  {
+    "city": "Accra",
+    "neighbourhood": "Old Fadama",
+    "country": "Ghana",
+    "lat": 5.55,
+    "lon": -0.22,
+    "count": 41
+  },
+  {
+    "city": "Johannesburg",
+    "neighbourhood": "Berea",
+    "country": "South Africa",
+    "lat": -26.19,
+    "lon": 28.045,
+    "count": 12
+  },
+  {
+    "city": "Johannesburg",
+    "neighbourhood": "Berea",
+    "country": "South Africa",
+    "lat": -26.185,
+    "lon": 28.05,
+    "count": 22
+  },
+  {
+    "city": "Johannesburg",
+    "neighbourhood": "Berea",
+    "country": "South Africa",
+    "lat": -26.185,
+    "lon": 28.055,
+    "count": 86
+  },
+  {
+    "city": "Johannesburg",
+    "neighbourhood": "Berea",
+    "country": "South Africa",
+    "lat": -26.18,
+    "lon": 28.05,
+    "count": 14
+  },
+  {
+    "city": "Johannesburg",
+    "neighbourhood": "Berea",
+    "country": "South Africa",
+    "lat": -26.18,
+    "lon": 28.055,
+    "count": 49
+  },
+  {
+    "city": "Johannesburg",
+    "neighbourhood": "Diepsloot",
+    "country": "South Africa",
+    "lat": -25.925,
+    "lon": 28.015,
+    "count": 41
+  },
+  {
+    "city": "Johannesburg",
+    "neighbourhood": "Diepsloot",
+    "country": "South Africa",
+    "lat": -25.925,
+    "lon": 28.02,
+    "count": 51
+  },
+  {
+    "city": "Johannesburg",
+    "neighbourhood": "Diepsloot",
+    "country": "South Africa",
+    "lat": -25.92,
+    "lon": 28.015,
+    "count": 22
+  },
+  {
+    "city": "Johannesburg",
+    "neighbourhood": "Diepsloot",
+    "country": "South Africa",
+    "lat": -25.92,
+    "lon": 28.02,
+    "count": 50
+  },
+  {
+    "city": "Johannesburg",
+    "neighbourhood": "Katlehong",
+    "country": "South Africa",
+    "lat": -26.37,
+    "lon": 28.155,
+    "count": 9
+  },
+  {
+    "city": "Johannesburg",
+    "neighbourhood": "Katlehong",
+    "country": "South Africa",
+    "lat": -26.365,
+    "lon": 28.15,
+    "count": 30
+  },
+  {
+    "city": "Johannesburg",
+    "neighbourhood": "Katlehong",
+    "country": "South Africa",
+    "lat": -26.365,
+    "lon": 28.155,
+    "count": 58
+  },
+  {
+    "city": "Johannesburg",
+    "neighbourhood": "Katlehong",
+    "country": "South Africa",
+    "lat": -26.36,
+    "lon": 28.135,
+    "count": 18
+  },
+  {
+    "city": "Johannesburg",
+    "neighbourhood": "Katlehong",
+    "country": "South Africa",
+    "lat": -26.36,
+    "lon": 28.14,
+    "count": 16
+  },
+  {
+    "city": "Johannesburg",
+    "neighbourhood": "Katlehong",
+    "country": "South Africa",
+    "lat": -26.36,
+    "lon": 28.15,
+    "count": 37
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Kawangware",
+    "country": "Kenya",
+    "lat": -1.29,
+    "lon": 36.745,
+    "count": 7
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Kawangware",
+    "country": "Kenya",
+    "lat": -1.29,
+    "lon": 36.75,
+    "count": 19
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Kawangware",
+    "country": "Kenya",
+    "lat": -1.285,
+    "lon": 36.745,
+    "count": 15
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Kawangware",
+    "country": "Kenya",
+    "lat": -1.285,
+    "lon": 36.75,
+    "count": 7
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Kawangware",
+    "country": "Kenya",
+    "lat": -1.285,
+    "lon": 36.755,
+    "count": 18
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Kawangware",
+    "country": "Kenya",
+    "lat": -1.28,
+    "lon": 36.735,
+    "count": 7
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Kawangware",
+    "country": "Kenya",
+    "lat": -1.28,
+    "lon": 36.74,
+    "count": 8
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Kawangware",
+    "country": "Kenya",
+    "lat": -1.28,
+    "lon": 36.745,
+    "count": 12
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Kawangware",
+    "country": "Kenya",
+    "lat": -1.28,
+    "lon": 36.75,
+    "count": 20
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Kawangware",
+    "country": "Kenya",
+    "lat": -1.28,
+    "lon": 36.755,
+    "count": 36
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Kawangware",
+    "country": "Kenya",
+    "lat": -1.28,
+    "lon": 36.76,
+    "count": 7
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Kawangware",
+    "country": "Kenya",
+    "lat": -1.275,
+    "lon": 36.735,
+    "count": 20
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Kawangware",
+    "country": "Kenya",
+    "lat": -1.275,
+    "lon": 36.75,
+    "count": 9
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Kawangware",
+    "country": "Kenya",
+    "lat": -1.275,
+    "lon": 36.76,
+    "count": 13
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Kawangware",
+    "country": "Kenya",
+    "lat": -1.21,
+    "lon": 36.79,
+    "count": 9
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Kayole",
+    "country": "Kenya",
+    "lat": -1.29,
+    "lon": 36.905,
+    "count": 10
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Kayole",
+    "country": "Kenya",
+    "lat": -1.29,
+    "lon": 36.91,
+    "count": 12
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Kayole",
+    "country": "Kenya",
+    "lat": -1.285,
+    "lon": 36.905,
+    "count": 6
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Kayole",
+    "country": "Kenya",
+    "lat": -1.285,
+    "lon": 36.91,
+    "count": 10
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Kayole",
+    "country": "Kenya",
+    "lat": -1.285,
+    "lon": 36.915,
+    "count": 14
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Kayole",
+    "country": "Kenya",
+    "lat": -1.28,
+    "lon": 36.91,
+    "count": 20
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Kayole",
+    "country": "Kenya",
+    "lat": -1.28,
+    "lon": 36.915,
+    "count": 16
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Kayole",
+    "country": "Kenya",
+    "lat": -1.275,
+    "lon": 36.91,
+    "count": 7
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Kayole",
+    "country": "Kenya",
+    "lat": -1.275,
+    "lon": 36.915,
+    "count": 12
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Kayole",
+    "country": "Kenya",
+    "lat": -1.275,
+    "lon": 36.92,
+    "count": 6
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Kayole",
+    "country": "Kenya",
+    "lat": -1.27,
+    "lon": 36.915,
+    "count": 9
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Kayole",
+    "country": "Kenya",
+    "lat": -1.27,
+    "lon": 36.92,
+    "count": 15
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Kayole",
+    "country": "Kenya",
+    "lat": -1.265,
+    "lon": 36.92,
+    "count": 18
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Kayole",
+    "country": "Kenya",
+    "lat": -1.265,
+    "lon": 36.925,
+    "count": 11
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Kayole",
+    "country": "Kenya",
+    "lat": -1.26,
+    "lon": 36.92,
+    "count": 5
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Ongata Rongai",
+    "country": "Kenya",
+    "lat": -1.405,
+    "lon": 36.755,
+    "count": 6
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Ongata Rongai",
+    "country": "Kenya",
+    "lat": -1.4,
+    "lon": 36.735,
+    "count": 7
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Ongata Rongai",
+    "country": "Kenya",
+    "lat": -1.4,
+    "lon": 36.74,
+    "count": 6
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Ongata Rongai",
+    "country": "Kenya",
+    "lat": -1.4,
+    "lon": 36.745,
+    "count": 8
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Ongata Rongai",
+    "country": "Kenya",
+    "lat": -1.4,
+    "lon": 36.75,
+    "count": 11
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Ongata Rongai",
+    "country": "Kenya",
+    "lat": -1.4,
+    "lon": 36.755,
+    "count": 8
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Ongata Rongai",
+    "country": "Kenya",
+    "lat": -1.4,
+    "lon": 36.76,
+    "count": 11
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Ongata Rongai",
+    "country": "Kenya",
+    "lat": -1.4,
+    "lon": 36.765,
+    "count": 10
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Ongata Rongai",
+    "country": "Kenya",
+    "lat": -1.395,
+    "lon": 36.73,
+    "count": 7
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Ongata Rongai",
+    "country": "Kenya",
+    "lat": -1.395,
+    "lon": 36.735,
+    "count": 6
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Ongata Rongai",
+    "country": "Kenya",
+    "lat": -1.395,
+    "lon": 36.74,
+    "count": 7
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Ongata Rongai",
+    "country": "Kenya",
+    "lat": -1.395,
+    "lon": 36.745,
+    "count": 5
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Ongata Rongai",
+    "country": "Kenya",
+    "lat": -1.395,
+    "lon": 36.75,
+    "count": 9
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Ongata Rongai",
+    "country": "Kenya",
+    "lat": -1.395,
+    "lon": 36.755,
+    "count": 8
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Ongata Rongai",
+    "country": "Kenya",
+    "lat": -1.395,
+    "lon": 36.76,
+    "count": 6
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Ongata Rongai",
+    "country": "Kenya",
+    "lat": -1.395,
+    "lon": 36.765,
+    "count": 17
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Ongata Rongai",
+    "country": "Kenya",
+    "lat": -1.39,
+    "lon": 36.735,
+    "count": 5
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Ongata Rongai",
+    "country": "Kenya",
+    "lat": -1.39,
+    "lon": 36.74,
+    "count": 5
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Ongata Rongai",
+    "country": "Kenya",
+    "lat": -1.39,
+    "lon": 36.745,
+    "count": 5
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Ongata Rongai",
+    "country": "Kenya",
+    "lat": -1.39,
+    "lon": 36.75,
+    "count": 6
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Ongata Rongai",
+    "country": "Kenya",
+    "lat": -1.39,
+    "lon": 36.755,
+    "count": 10
+  },
+  {
+    "city": "Nairobi",
+    "neighbourhood": "Ongata Rongai",
+    "country": "Kenya",
+    "lat": -1.39,
+    "lon": 36.765,
+    "count": 5
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "project": "Study Geography Atlas",
+  "version": "3.2.0",
+  "release_type": "Public GitHub release",
+  "research_purpose": "Describe the geography of survey fieldwork across nine study neighbourhoods in Accra, Johannesburg, and Nairobi.",
+  "data_policy": "The public repository contains aggregate geography only. It contains no respondent identifiers, exact respondent coordinates, raw survey records, interviewer identifiers, or precise timestamps.",
+  "footprint_language": "Fieldwork footprints are descriptive envelopes generated from displayed aggregate geography; they are not official neighbourhood or administrative boundaries.",
+  "denominators": {
+    "raw_survey_cases_reported": 1644,
+    "geocoded_records_in_uploaded_atlas_source": 1643,
+    "records_excluded_by_city_level_coordinate_qa": 5,
+    "interviews_represented_in_public_atlas": 1638,
+    "analytical_sample_used_in_companion_interface": 1623,
+    "note": "The atlas geography denominator and the companion analytical sample are different products. The uploaded materials do not document the reason that the geocoded atlas source contains one fewer record than the 1,644 raw cases."
+  },
+  "privacy": {
+    "source_for_public_transformation": "Previously rounded/grouped public geography supplied in the uploaded v3.2 package; no exact coordinates were used in this release package.",
+    "initial_grid_interval_degrees": 0.005,
+    "minimum_interviews_per_point": 5,
+    "low_count_rule": "Grid cells representing fewer than five interviews were merged into the nearest aggregate cell within the same study neighbourhood.",
+    "coordinate_interpretation": "Displayed coordinates are aggregate map anchors and must not be interpreted as exact interview locations."
+  },
+  "counts": {
+    "cities": 3,
+    "study_neighbourhoods": 9,
+    "public_aggregate_points": 104,
+    "public_mapped_interviews": 1638
+  },
+  "files": [
+    "survey_points_public.json",
+    "survey_points_public.csv",
+    "study_site_metadata.json",
+    "city_metadata.json",
+    "study_geography_manifest.json"
+  ]
+}

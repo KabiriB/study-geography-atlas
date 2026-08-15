@@ -1,0 +1,28 @@
+{
+  "name": "study-geography-atlas",
+  "version": "3.2.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20.19.0"
+  },
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "validate": "node scripts/validate-release.mjs",
+    "build": "npm run validate && npm run qa && vite build && node scripts/create-pages-fallback.mjs",
+    "preview": "vite preview --host 0.0.0.0",
+    "check": "npm run validate && npm run qa && npm run build",
+    "qa": "node scripts/qa-interface-contract.mjs"
+  },
+  "dependencies": {
+    "html2canvas": "1.4.1",
+    "leaflet": "1.9.4",
+    "react": "19.2.6",
+    "react-dom": "19.2.6",
+    "react-leaflet": "5.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "6.0.2",
+    "vite": "8.0.16"
+  }
+}

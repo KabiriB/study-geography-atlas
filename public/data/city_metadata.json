@@ -1,0 +1,62 @@
+[
+  {
+    "city": "Accra",
+    "country": "Ghana",
+    "n_public_mapped_interviews": 577,
+    "n_public_aggregate_points": 37,
+    "minimum_interviews_per_point": 5,
+    "center_lat": 5.59376,
+    "center_lon": -0.1982,
+    "bounds": [
+      5.53,
+      -0.225,
+      5.735,
+      -0.15
+    ],
+    "neighbourhoods": [
+      "James Town",
+      "Madina",
+      "Old Fadama"
+    ]
+  },
+  {
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "n_public_mapped_interviews": 515,
+    "n_public_aggregate_points": 15,
+    "minimum_interviews_per_point": 9,
+    "center_lat": -26.15913,
+    "center_lon": 28.07347,
+    "bounds": [
+      -26.37,
+      28.015,
+      -25.92,
+      28.155
+    ],
+    "neighbourhoods": [
+      "Berea",
+      "Diepsloot",
+      "Katlehong"
+    ]
+  },
+  {
+    "city": "Nairobi",
+    "country": "Kenya",
+    "n_public_mapped_interviews": 546,
+    "n_public_aggregate_points": 52,
+    "minimum_interviews_per_point": 5,
+    "center_lat": -1.31406,
+    "center_lon": 36.8021,
+    "bounds": [
+      -1.405,
+      36.73,
+      -1.21,
+      36.925
+    ],
+    "neighbourhoods": [
+      "Kawangware",
+      "Kayole",
+      "Ongata Rongai"
+    ]
+  }
+]

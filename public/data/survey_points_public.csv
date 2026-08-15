@@ -1,0 +1,105 @@
+city,neighbourhood,country,lat,lon,count
+Accra,James Town,Ghana,5.53,-0.22,9
+Accra,James Town,Ghana,5.53,-0.215,11
+Accra,James Town,Ghana,5.535,-0.22,18
+Accra,James Town,Ghana,5.535,-0.215,50
+Accra,James Town,Ghana,5.535,-0.21,46
+Accra,James Town,Ghana,5.54,-0.215,7
+Accra,James Town,Ghana,5.54,-0.21,23
+Accra,James Town,Ghana,5.54,-0.205,7
+Accra,Madina,Ghana,5.65,-0.195,7
+Accra,Madina,Ghana,5.65,-0.19,7
+Accra,Madina,Ghana,5.66,-0.165,9
+Accra,Madina,Ghana,5.665,-0.16,14
+Accra,Madina,Ghana,5.665,-0.155,5
+Accra,Madina,Ghana,5.67,-0.175,8
+Accra,Madina,Ghana,5.67,-0.17,10
+Accra,Madina,Ghana,5.67,-0.165,7
+Accra,Madina,Ghana,5.67,-0.16,8
+Accra,Madina,Ghana,5.67,-0.155,14
+Accra,Madina,Ghana,5.675,-0.17,14
+Accra,Madina,Ghana,5.675,-0.165,11
+Accra,Madina,Ghana,5.675,-0.16,5
+Accra,Madina,Ghana,5.675,-0.155,9
+Accra,Madina,Ghana,5.68,-0.17,12
+Accra,Madina,Ghana,5.68,-0.165,6
+Accra,Madina,Ghana,5.68,-0.16,9
+Accra,Madina,Ghana,5.68,-0.155,7
+Accra,Madina,Ghana,5.685,-0.17,5
+Accra,Madina,Ghana,5.685,-0.16,14
+Accra,Madina,Ghana,5.685,-0.155,5
+Accra,Madina,Ghana,5.695,-0.175,12
+Accra,Madina,Ghana,5.7,-0.175,9
+Accra,Madina,Ghana,5.705,-0.17,8
+Accra,Madina,Ghana,5.735,-0.15,6
+Accra,Old Fadama,Ghana,5.545,-0.225,54
+Accra,Old Fadama,Ghana,5.545,-0.22,38
+Accra,Old Fadama,Ghana,5.55,-0.225,52
+Accra,Old Fadama,Ghana,5.55,-0.22,41
+Johannesburg,Berea,South Africa,-26.19,28.045,12
+Johannesburg,Berea,South Africa,-26.185,28.05,22
+Johannesburg,Berea,South Africa,-26.185,28.055,86
+Johannesburg,Berea,South Africa,-26.18,28.05,14
+Johannesburg,Berea,South Africa,-26.18,28.055,49
+Johannesburg,Diepsloot,South Africa,-25.925,28.015,41
+Johannesburg,Diepsloot,South Africa,-25.925,28.02,51
+Johannesburg,Diepsloot,South Africa,-25.92,28.015,22
+Johannesburg,Diepsloot,South Africa,-25.92,28.02,50
+Johannesburg,Katlehong,South Africa,-26.37,28.155,9
+Johannesburg,Katlehong,South Africa,-26.365,28.15,30
+Johannesburg,Katlehong,South Africa,-26.365,28.155,58
+Johannesburg,Katlehong,South Africa,-26.36,28.135,18
+Johannesburg,Katlehong,South Africa,-26.36,28.14,16
+Johannesburg,Katlehong,South Africa,-26.36,28.15,37
+Nairobi,Kawangware,Kenya,-1.29,36.745,7
+Nairobi,Kawangware,Kenya,-1.29,36.75,19
+Nairobi,Kawangware,Kenya,-1.285,36.745,15
+Nairobi,Kawangware,Kenya,-1.285,36.75,7
+Nairobi,Kawangware,Kenya,-1.285,36.755,18
+Nairobi,Kawangware,Kenya,-1.28,36.735,7
+Nairobi,Kawangware,Kenya,-1.28,36.74,8
+Nairobi,Kawangware,Kenya,-1.28,36.745,12
+Nairobi,Kawangware,Kenya,-1.28,36.75,20
+Nairobi,Kawangware,Kenya,-1.28,36.755,36
+Nairobi,Kawangware,Kenya,-1.28,36.76,7
+Nairobi,Kawangware,Kenya,-1.275,36.735,20
+Nairobi,Kawangware,Kenya,-1.275,36.75,9
+Nairobi,Kawangware,Kenya,-1.275,36.76,13
+Nairobi,Kawangware,Kenya,-1.21,36.79,9
+Nairobi,Kayole,Kenya,-1.29,36.905,10
+Nairobi,Kayole,Kenya,-1.29,36.91,12
+Nairobi,Kayole,Kenya,-1.285,36.905,6
+Nairobi,Kayole,Kenya,-1.285,36.91,10
+Nairobi,Kayole,Kenya,-1.285,36.915,14
+Nairobi,Kayole,Kenya,-1.28,36.91,20
+Nairobi,Kayole,Kenya,-1.28,36.915,16
+Nairobi,Kayole,Kenya,-1.275,36.91,7
+Nairobi,Kayole,Kenya,-1.275,36.915,12
+Nairobi,Kayole,Kenya,-1.275,36.92,6
+Nairobi,Kayole,Kenya,-1.27,36.915,9
+Nairobi,Kayole,Kenya,-1.27,36.92,15
+Nairobi,Kayole,Kenya,-1.265,36.92,18
+Nairobi,Kayole,Kenya,-1.265,36.925,11
+Nairobi,Kayole,Kenya,-1.26,36.92,5
+Nairobi,Ongata Rongai,Kenya,-1.405,36.755,6
+Nairobi,Ongata Rongai,Kenya,-1.4,36.735,7
+Nairobi,Ongata Rongai,Kenya,-1.4,36.74,6
+Nairobi,Ongata Rongai,Kenya,-1.4,36.745,8
+Nairobi,Ongata Rongai,Kenya,-1.4,36.75,11
+Nairobi,Ongata Rongai,Kenya,-1.4,36.755,8
+Nairobi,Ongata Rongai,Kenya,-1.4,36.76,11
+Nairobi,Ongata Rongai,Kenya,-1.4,36.765,10
+Nairobi,Ongata Rongai,Kenya,-1.395,36.73,7
+Nairobi,Ongata Rongai,Kenya,-1.395,36.735,6
+Nairobi,Ongata Rongai,Kenya,-1.395,36.74,7
+Nairobi,Ongata Rongai,Kenya,-1.395,36.745,5
+Nairobi,Ongata Rongai,Kenya,-1.395,36.75,9
+Nairobi,Ongata Rongai,Kenya,-1.395,36.755,8
+Nairobi,Ongata Rongai,Kenya,-1.395,36.76,6
+Nairobi,Ongata Rongai,Kenya,-1.395,36.765,17
+Nairobi,Ongata Rongai,Kenya,-1.39,36.735,5
+Nairobi,Ongata Rongai,Kenya,-1.39,36.74,5
+Nairobi,Ongata Rongai,Kenya,-1.39,36.745,5
+Nairobi,Ongata Rongai,Kenya,-1.39,36.75,6
+Nairobi,Ongata Rongai,Kenya,-1.39,36.755,10
+Nairobi,Ongata Rongai,Kenya,-1.39,36.765,5

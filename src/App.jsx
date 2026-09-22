@@ -17,8 +17,8 @@ const BASEMAPS = {
   carto: {
     label: 'Quiet grey',
     use: 'A restrained base for interpretation, figures, and presentations',
-    url: 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',
-    attribution: '&copy; OpenStreetMap contributors &copy; CARTO',
+    url: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
+   attribution: '&copy; OpenStreetMap contributors',
   },
   light: {
     label: 'Light streets',
@@ -29,8 +29,8 @@ const BASEMAPS = {
   dark: {
     label: 'Dark context',
     use: 'Useful for projected presentations and high-contrast viewing',
-    url: 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',
-    attribution: '&copy; OpenStreetMap contributors &copy; CARTO',
+    url: url: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
+    attribution: '&copy; OpenStreetMap contributors',
   },
   satellite: {
     label: 'Satellite',

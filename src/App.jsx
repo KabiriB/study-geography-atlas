@@ -29,7 +29,7 @@ const BASEMAPS = {
   dark: {
     label: 'Dark context',
     use: 'Useful for projected presentations and high-contrast viewing',
-    url: url: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
+    url: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
     attribution: '&copy; OpenStreetMap contributors',
   },
   satellite: {
